@@ -158,14 +158,11 @@ body {
 
 .media-icons {
     display: flex;
+
 }
 
 .media-icons svg {
-    margin-right: 24px;
-}
-
-.media-icons svg:last-child {
-    margin-right: 0;
+    margin-right: 32px;
 }
 
 .year {
